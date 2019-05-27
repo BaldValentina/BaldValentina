@@ -1,5 +1,5 @@
 # BaldValentina
-Titre du Master en **Traitement informatique multilingue** de l’*Université de Genève*
+Titre du Master de l’*Université de Genève*: **Traitement informatique multilingue** 
 <p>Thèmes du master:</p>
 
 * Technologies de la traduction
